@@ -8,6 +8,7 @@ COPY . /app/
 
 #FROM python:3.7-alpine
 #MAINTAINER Tajal Maruf
+#add and active tajal islam
 #
 #ENV PYTHONUNBUFFERED 1
 #
